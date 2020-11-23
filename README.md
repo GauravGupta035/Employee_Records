@@ -1,3 +1,9 @@
+# Employee Record
+
+This project shows 10 employees along with their credientials like Name, Username and E-mail obtained from [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users). It also includes searching for the employees and rendering them according to their name.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
